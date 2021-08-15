@@ -1,0 +1,6 @@
+if m0110BT
+
+config ZMK_KEYBOARD_NAME
+    default "m0110BT"
+
+endif

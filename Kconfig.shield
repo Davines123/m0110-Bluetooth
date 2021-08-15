@@ -1,0 +1,2 @@
+config m0110BT
+    def_bool $(shields_list_contains,m0110BT)
